@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: test-application
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      config:
+        # 开启nacos作为配置中心，默认值：true
+        server-addr: 192.168.3.104:8848
+        namespace: public
+        # 配置文件的文件后缀（文件类型），默认值：properties
+        file-extension: yaml
+        # 配置内容的编码方式，默认值：UTF-8
+        encode: UTF-8
+        # 获取配置的超时时间，单位：ms，默认值：3000
+        timeout: 3000
+        # 开启监听和自动刷新，动态感知配置变化，默认值：true
+        refresh-enabled: true
+        shared-configs:
+          - config-mysql.yaml
+          - config-token.yaml
+          - config-port.yaml
+          - config-log.yaml
+          - config-spring.yaml
+          - config-mybatis.yaml
+          - config-rest.yaml
+      discovery:
+        server-addr: ${spring.cloud.nacos.config.server-addr}
+        namespace: ${spring.cloud.nacos.config.namespace}
+
+

@@ -1,0 +1,712 @@
+2024-10-09 10:18:37 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 10:18:37 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 18360 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 10:18:37 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 10:18:38 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 10:18:38 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 10:18:38 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 10:18:39 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 10:18:39 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:18:39 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 10:18:39 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 10:18:39 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 10:18:39 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 2103 ms
+2024-10-09 10:18:41 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:18:41 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 10:18:41 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 4.552 seconds (JVM running for 5.565)
+2024-10-09 10:18:56 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 10:18:56 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 10:18:56 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2024-10-09 10:19:43 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 10:19:43 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 9668 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 10:19:43 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 10:19:44 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 10:19:44 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 10:19:44 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 10:19:45 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 10:19:45 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:19:45 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 10:19:45 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 10:19:45 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 10:19:45 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1703 ms
+2024-10-09 10:19:47 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:19:47 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 10:19:47 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 4.05 seconds (JVM running for 5.022)
+2024-10-09 10:19:50 INFO  http-nio-8081-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 10:19:50 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 10:19:50 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2024-10-09 10:20:23 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 10:20:23 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 17480 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 10:20:23 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 10:20:24 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 10:20:24 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 10:20:24 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 10:20:25 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 10:20:25 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:20:25 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 10:20:25 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 10:20:25 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 10:20:25 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1630 ms
+2024-10-09 10:20:26 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:20:26 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 10:20:26 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.797 seconds (JVM running for 4.729)
+2024-10-09 10:20:34 INFO  http-nio-8081-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 10:20:34 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 10:20:34 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2024-10-09 10:47:55 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 10:47:55 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 17112 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 10:47:55 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 10:47:55 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 10:47:55 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 10:47:56 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 10:47:56 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 10:47:56 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:47:56 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 10:47:56 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 10:47:56 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 10:47:56 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1736 ms
+2024-10-09 10:47:58 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:47:58 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 10:47:58 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 4.111 seconds (JVM running for 5.059)
+2024-10-09 10:48:09 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 10:48:09 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 10:48:09 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2024-10-09 10:49:15 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 10:49:15 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 21880 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 10:49:15 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 10:49:16 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 10:49:16 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 10:49:16 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 10:49:17 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 10:49:17 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:49:17 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 10:49:17 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 10:49:17 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 10:49:17 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1720 ms
+2024-10-09 10:49:19 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:49:19 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 10:49:19 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.892 seconds (JVM running for 4.854)
+2024-10-09 10:49:38 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 10:49:38 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 10:49:38 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2024-10-09 10:50:02 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 10:50:02 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 9684 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 10:50:02 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 10:50:03 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 10:50:03 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 10:50:03 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 10:50:03 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 10:50:03 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:50:03 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 10:50:03 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 10:50:03 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 10:50:03 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1645 ms
+2024-10-09 10:50:05 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:50:05 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 10:50:05 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.776 seconds (JVM running for 4.697)
+2024-10-09 10:50:18 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 10:50:18 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 10:50:18 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2024-10-09 10:56:52 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 10:56:52 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 22228 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 10:56:52 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 10:56:53 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 10:56:53 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 10:56:53 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 10:56:54 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 10:56:54 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:56:54 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 10:56:54 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 10:56:54 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 10:56:54 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1763 ms
+2024-10-09 10:56:58 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 10:56:58 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 10:56:58 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 7.117 seconds (JVM running for 8.424)
+2024-10-09 10:57:03 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 10:57:03 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 10:57:03 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2024-10-09 11:00:10 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:00:10 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 17908 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:00:10 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:00:11 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:00:11 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:00:11 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:00:12 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:00:12 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:00:12 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:00:12 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:00:12 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:00:12 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1974 ms
+2024-10-09 11:00:18 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:00:18 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:00:18 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 9.497 seconds (JVM running for 10.527)
+2024-10-09 11:00:28 INFO  http-nio-8081-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:00:28 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:00:28 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2024-10-09 11:01:08 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:01:09 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 19020 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:01:09 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:01:09 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:01:09 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:01:09 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:01:10 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:01:10 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:01:10 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:01:10 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:01:10 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:01:10 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1707 ms
+2024-10-09 11:01:12 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:01:12 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:01:12 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.944 seconds (JVM running for 5.162)
+2024-10-09 11:01:32 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:01:32 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:01:32 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2024-10-09 11:02:14 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:02:14 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 7524 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:02:14 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:02:15 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:02:15 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:02:15 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:02:16 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:02:16 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:02:16 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:02:16 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:02:16 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:02:16 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1915 ms
+2024-10-09 11:02:17 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:02:17 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:02:17 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 4.367 seconds (JVM running for 5.483)
+2024-10-09 11:02:25 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:02:25 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 21752 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:02:25 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:02:26 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:02:26 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:02:26 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:02:27 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:02:27 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:02:27 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:02:27 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:02:27 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:02:27 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1642 ms
+2024-10-09 11:02:28 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:02:28 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:02:28 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.776 seconds (JVM running for 4.777)
+2024-10-09 11:06:32 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:06:32 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 20816 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:06:32 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:06:33 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:06:33 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:06:33 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:06:34 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:06:34 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:06:34 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:06:34 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:06:34 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:06:34 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1796 ms
+2024-10-09 11:06:35 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:06:35 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:06:35 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 4.248 seconds (JVM running for 5.487)
+2024-10-09 11:07:13 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:07:13 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 12212 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:07:13 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:07:14 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:07:14 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:07:14 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:07:14 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:07:14 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:07:14 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:07:14 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:07:14 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:07:14 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1699 ms
+2024-10-09 11:07:16 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:07:16 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:07:16 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 4.007 seconds (JVM running for 4.941)
+2024-10-09 11:07:44 INFO  http-nio-8081-exec-3 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:07:44 INFO  http-nio-8081-exec-3 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:07:44 INFO  http-nio-8081-exec-3 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2024-10-09 11:08:18 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:08:18 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 9004 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:08:18 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:08:18 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:08:18 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:08:19 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:08:19 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:08:19 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:08:19 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:08:19 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:08:19 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:08:19 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1733 ms
+2024-10-09 11:08:21 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:08:21 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:08:21 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 4.002 seconds (JVM running for 4.938)
+2024-10-09 11:08:26 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:08:26 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:08:26 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2024-10-09 11:09:56 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:09:56 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 9128 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:09:56 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:09:57 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:09:57 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:09:57 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:09:58 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:09:58 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:09:58 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:09:58 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:09:58 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:09:58 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1679 ms
+2024-10-09 11:10:00 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:10:00 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:10:00 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.865 seconds (JVM running for 4.826)
+2024-10-09 11:11:20 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:11:20 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:11:20 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2024-10-09 11:12:23 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:12:23 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 2720 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:12:23 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:12:24 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:12:24 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:12:24 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:12:25 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:12:25 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:12:25 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:12:25 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:12:25 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:12:25 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1700 ms
+2024-10-09 11:12:27 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:12:27 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:12:27 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.945 seconds (JVM running for 4.879)
+2024-10-09 11:12:39 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:12:39 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:12:39 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2024-10-09 11:13:19 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:13:19 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 15180 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:13:19 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:13:20 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:13:20 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:13:20 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:13:21 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:13:21 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:13:21 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:13:21 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:13:21 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:13:21 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1954 ms
+2024-10-09 11:13:23 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:13:23 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:13:23 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 4.61 seconds (JVM running for 5.628)
+2024-10-09 11:13:28 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:13:28 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:13:28 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2024-10-09 11:13:33 INFO  http-nio-8081-exec-4 org.springdoc.api.AbstractOpenApiResource Init duration for springdoc-openapi is: 113 ms
+2024-10-09 11:16:04 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:16:04 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 18796 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:16:04 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:16:04 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:16:04 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:16:04 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:16:05 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:16:05 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:16:05 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:16:05 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:16:05 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:16:05 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1645 ms
+2024-10-09 11:16:07 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:16:07 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:16:07 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.826 seconds (JVM running for 4.742)
+2024-10-09 11:17:04 INFO  http-nio-8081-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:17:04 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:17:04 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2024-10-09 11:23:22 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:23:22 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 16308 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:23:22 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:23:23 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:23:23 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:23:23 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:23:24 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:23:24 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:23:24 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:23:24 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:23:24 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:23:24 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1826 ms
+2024-10-09 11:23:26 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:23:26 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:23:26 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 4.293 seconds (JVM running for 5.326)
+2024-10-09 11:23:36 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:23:36 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:23:36 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2024-10-09 11:26:01 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:26:01 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 17320 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:26:01 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:26:02 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:26:02 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:26:02 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:26:02 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:26:02 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:26:02 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:26:02 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:26:03 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:26:03 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1626 ms
+2024-10-09 11:26:04 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:26:04 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:26:04 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.778 seconds (JVM running for 4.701)
+2024-10-09 11:26:29 INFO  http-nio-8081-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:26:29 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:26:29 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2024-10-09 11:31:41 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:31:41 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 13304 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:31:41 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:31:42 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:31:42 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:31:42 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:31:43 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:31:43 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:31:43 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:31:43 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:31:43 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:31:43 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1645 ms
+2024-10-09 11:31:44 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:31:44 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:31:44 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.897 seconds (JVM running for 4.983)
+2024-10-09 11:31:53 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:31:53 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:31:53 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2024-10-09 11:32:42 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 11:32:42 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 21200 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 11:32:42 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 11:32:43 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 11:32:43 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 11:32:43 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 11:32:44 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 11:32:44 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:32:44 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 11:32:44 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 11:32:44 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 11:32:44 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1727 ms
+2024-10-09 11:32:45 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 11:32:46 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 11:32:46 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.946 seconds (JVM running for 4.924)
+2024-10-09 11:33:02 INFO  http-nio-8081-exec-3 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 11:33:02 INFO  http-nio-8081-exec-3 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 11:33:02 INFO  http-nio-8081-exec-3 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2024-10-09 13:35:12 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 13:35:12 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 1328 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 13:35:12 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 13:35:12 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 13:35:12 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 13:35:12 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 13:35:13 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 13:35:13 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 13:35:13 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 13:35:13 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 13:35:13 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 13:35:13 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1774 ms
+2024-10-09 13:35:15 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 13:35:15 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 13:35:15 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 4.411 seconds (JVM running for 5.47)
+2024-10-09 13:35:46 INFO  http-nio-8081-exec-3 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 13:35:46 INFO  http-nio-8081-exec-3 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 13:35:46 INFO  http-nio-8081-exec-3 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2024-10-09 13:39:27 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 13:39:27 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 5436 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 13:39:27 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 13:39:28 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 13:39:28 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 13:39:28 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 13:39:29 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 13:39:29 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 13:39:29 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 13:39:29 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 13:39:29 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 13:39:29 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1677 ms
+2024-10-09 13:39:30 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 13:39:30 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 13:39:30 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 3.843 seconds (JVM running for 4.899)
+2024-10-09 13:39:34 INFO  http-nio-8081-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 13:39:34 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 13:39:34 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2024-10-09 15:34:54 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 15:34:54 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-09 15:35:34 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 15:35:34 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-09 15:36:13 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 15:36:13 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-09 15:37:48 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 15:37:49 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-09 15:38:02 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 15:38:02 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-09 15:39:22 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 15:39:22 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-09 15:40:28 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 15:40:28 INFO  main com.example.yubatest.YubaTestApplication Starting YubaTestApplication using Java 1.8.0_422 on DESKTOP-AM4L6K3 with PID 4176 (D:\工作汇报\YubaTest\target\classes started by JJB in D:\工作汇报\YubaTest)
+2024-10-09 15:40:28 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 15:40:29 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 15:40:29 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 15:40:29 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 15:40:30 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 15:40:30 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 15:40:30 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 15:40:30 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 15:40:30 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 15:40:30 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1871 ms
+2024-10-09 15:40:32 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 15:40:32 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 15:40:32 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 4.101 seconds (JVM running for 5.039)
+2024-10-09 15:56:22 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-09 15:56:22 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 15:56:23 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-09 15:56:23 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 15:56:23 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 15:56:32 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-yuba-project-development.properties,apm'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project.properties,apm'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project,apm'}]
+2024-10-09 15:56:32 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 15:56:33 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 15:56:33 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 15:56:33 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 15:56:33 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=2c6cfd40-028a-3e15-a59e-62403a2a9a5e
+2024-10-09 15:56:34 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 15:56:34 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 15:56:34 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 15:56:34 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 15:56:34 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 15:56:34 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1551 ms
+2024-10-09 15:56:36 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 15:56:36 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 15:56:36 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 15:56:36 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 15:56:53 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-09 15:56:53 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 15:56:54 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-09 15:56:54 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 15:56:54 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 15:56:55 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-yuba-project-development.properties,apm'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project.properties,apm'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project,apm'}]
+2024-10-09 15:56:55 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 15:56:56 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 15:56:56 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 15:56:56 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 15:56:56 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=2c6cfd40-028a-3e15-a59e-62403a2a9a5e
+2024-10-09 15:56:57 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 15:56:57 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 15:56:57 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 15:56:57 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 15:56:57 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 15:56:57 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1548 ms
+2024-10-09 15:56:59 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 15:56:59 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 15:56:59 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 15:56:59 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 15:56:59 INFO  main com.alibaba.cloud.nacos.registry.NacosServiceRegistry nacos registry, DEFAULT_GROUP yuba-project 192.168.3.104:8081 register finished
+2024-10-09 15:56:59 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 6.937 seconds (JVM running for 8.141)
+2024-10-09 15:56:59 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=yuba-project, group=apm
+2024-10-09 15:56:59 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=yuba-project.properties, group=apm
+2024-10-09 15:56:59 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=yuba-project-development.properties, group=apm
+2024-10-09 16:05:18 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registering from Nacos Server now...
+2024-10-09 16:05:18 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registration finished.
+2024-10-09 16:05:28 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-09 16:05:28 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 16:05:28 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-09 16:05:28 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:05:28 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:05:30 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-yuba-project-development.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yml,DEFAULT_GROUP'}]
+2024-10-09 16:05:30 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 16:05:31 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 16:05:31 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 16:05:31 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 16:05:31 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=2c6cfd40-028a-3e15-a59e-62403a2a9a5e
+2024-10-09 16:05:31 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2024-10-09 16:05:31 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2024-10-09 16:05:31 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 16:05:31 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 16:05:31 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 16:05:31 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1533 ms
+2024-10-09 16:05:33 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2024-10-09 16:05:33 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-09 16:07:14 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-09 16:07:14 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 16:07:15 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-09 16:07:15 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:07:15 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:07:16 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-yuba-project-development.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yml,DEFAULT_GROUP'}]
+2024-10-09 16:07:16 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 16:07:17 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 16:07:17 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 16:07:17 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 16:07:17 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=2c6cfd40-028a-3e15-a59e-62403a2a9a5e
+2024-10-09 16:07:18 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2024-10-09 16:07:18 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2024-10-09 16:07:18 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 16:07:18 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 16:07:18 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 16:07:18 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1525 ms
+2024-10-09 16:07:19 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2024-10-09 16:07:19 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-09 16:11:22 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-09 16:11:23 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 16:11:23 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-09 16:11:23 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:11:23 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:11:25 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-yuba-project-development.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yml,DEFAULT_GROUP'}]
+2024-10-09 16:11:25 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 16:11:26 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 16:11:26 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 16:11:26 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 16:11:26 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=2c6cfd40-028a-3e15-a59e-62403a2a9a5e
+2024-10-09 16:11:27 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2024-10-09 16:11:27 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2024-10-09 16:11:27 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 16:11:27 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 16:11:27 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 16:11:27 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1745 ms
+2024-10-09 16:11:28 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2024-10-09 16:11:28 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-09 16:12:58 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-09 16:12:58 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 16:12:59 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-09 16:12:59 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:12:59 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:13:00 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-yuba-project-development.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yaml,DEFAULT_GROUP'}]
+2024-10-09 16:13:00 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 16:13:01 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 16:13:01 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 16:13:01 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 16:13:01 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=2c6cfd40-028a-3e15-a59e-62403a2a9a5e
+2024-10-09 16:13:02 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2024-10-09 16:13:02 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2024-10-09 16:13:02 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 16:13:02 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 16:13:02 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 16:13:02 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1673 ms
+2024-10-09 16:13:03 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2024-10-09 16:13:03 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-09 16:19:12 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-09 16:19:12 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 16:19:13 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-09 16:19:13 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:19:13 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:19:14 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-yuba-project-development.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yaml,DEFAULT_GROUP'}]
+2024-10-09 16:19:15 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "development"
+2024-10-09 16:19:15 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 16:19:15 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 16:19:15 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+2024-10-09 16:19:15 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=2c6cfd40-028a-3e15-a59e-62403a2a9a5e
+2024-10-09 16:19:16 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 16:19:16 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 16:19:16 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 16:19:16 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 16:19:16 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 16:19:16 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1613 ms
+2024-10-09 16:19:18 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 16:19:18 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 16:19:18 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:19:18 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:19:19 INFO  main com.alibaba.cloud.nacos.registry.NacosServiceRegistry nacos registry, DEFAULT_GROUP yuba-project 192.168.3.104:8081 register finished
+2024-10-09 16:19:19 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 7.275 seconds (JVM running for 8.347)
+2024-10-09 16:19:19 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=yuba-project-development.yaml, group=DEFAULT_GROUP
+2024-10-09 16:19:19 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=yuba-project.yaml, group=DEFAULT_GROUP
+2024-10-09 16:19:19 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=yuba-project, group=DEFAULT_GROUP
+2024-10-09 16:44:10 INFO  http-nio-8081-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-09 16:44:10 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2024-10-09 16:44:10 INFO  http-nio-8081-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2024-10-09 16:45:49 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registering from Nacos Server now...
+2024-10-09 16:45:49 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registration finished.
+2024-10-09 16:45:52 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-09 16:45:52 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 16:45:52 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-09 16:45:52 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:45:52 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:45:54 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-yuba-project-dev.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yuba-project,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yaml,DEFAULT_GROUP'}]
+2024-10-09 16:45:54 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "dev"
+2024-10-09 16:45:54 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 16:45:54 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 16:45:54 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2024-10-09 16:45:55 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=2c6cfd40-028a-3e15-a59e-62403a2a9a5e
+2024-10-09 16:45:55 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 16:45:55 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 16:45:55 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 16:45:55 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 16:45:55 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 16:45:55 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1635 ms
+2024-10-09 16:45:58 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 16:45:58 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 16:45:58 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:45:58 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:45:58 INFO  main com.alibaba.cloud.nacos.registry.NacosServiceRegistry nacos registry, DEFAULT_GROUP yuba-project 192.168.3.104:8081 register finished
+2024-10-09 16:45:58 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 6.666 seconds (JVM running for 7.668)
+2024-10-09 16:45:58 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=yuba-project-dev.yaml, group=DEFAULT_GROUP
+2024-10-09 16:45:58 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=yuba-project.yaml, group=DEFAULT_GROUP
+2024-10-09 16:45:58 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=yuba-project, group=DEFAULT_GROUP
+2024-10-09 16:47:25 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registering from Nacos Server now...
+2024-10-09 16:47:25 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registration finished.
+2024-10-09 16:47:29 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-09 16:47:29 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 16:47:29 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-09 16:47:29 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:47:29 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:47:30 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-test-application-dev.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yaml,DEFAULT_GROUP'}]
+2024-10-09 16:47:30 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "dev"
+2024-10-09 16:47:31 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 16:47:31 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 16:47:31 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2024-10-09 16:47:31 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=2c6cfd40-028a-3e15-a59e-62403a2a9a5e
+2024-10-09 16:47:32 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 16:47:32 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 16:47:32 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 16:47:32 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 16:47:32 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 16:47:32 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1563 ms
+2024-10-09 16:47:34 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 16:47:34 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 16:47:34 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:47:34 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:47:34 INFO  main com.alibaba.cloud.nacos.registry.NacosServiceRegistry nacos registry, DEFAULT_GROUP test-application 192.168.3.104:8081 register finished
+2024-10-09 16:47:35 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 6.808 seconds (JVM running for 8.036)
+2024-10-09 16:47:35 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=test-application.yaml, group=DEFAULT_GROUP
+2024-10-09 16:47:35 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=test-application-dev.yaml, group=DEFAULT_GROUP
+2024-10-09 16:47:35 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=test-application, group=DEFAULT_GROUP
+2024-10-09 16:50:15 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registering from Nacos Server now...
+2024-10-09 16:50:15 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registration finished.
+2024-10-09 16:52:55 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-09 16:52:55 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-09 16:52:55 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-09 16:52:55 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:52:55 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:52:57 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-test-application-dev.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yaml,DEFAULT_GROUP'}]
+2024-10-09 16:52:57 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "dev"
+2024-10-09 16:52:58 INFO  main org.springframework.context.annotation.AutoProxyRegistrar AutoProxyRegistrar was imported but no annotations were found having both 'mode' and 'proxyTargetClass' attributes of type AdviceMode and boolean respectively. This means that auto proxy creator registration and configuration may not have occurred as intended, and components may not be proxied as expected. Check to ensure that AutoProxyRegistrar has been @Import'ed on the same class where these annotations are declared; otherwise remove the import of AutoProxyRegistrar altogether.
+2024-10-09 16:52:58 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-09 16:52:58 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-09 16:52:58 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+2024-10-09 16:52:58 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=dd5b7475-6ab8-3a3a-a93f-7334bd200ce9
+2024-10-09 16:52:59 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-09 16:52:59 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-09 16:52:59 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-09 16:52:59 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-09 16:52:59 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-09 16:52:59 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1895 ms
+2024-10-09 16:53:02 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-09 16:53:02 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-09 16:53:02 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-09 16:53:02 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-09 16:53:02 INFO  main com.alibaba.cloud.nacos.registry.NacosServiceRegistry nacos registry, DEFAULT_GROUP test-application 192.168.3.104:8081 register finished
+2024-10-09 16:53:02 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 8.161 seconds (JVM running for 9.203)
+2024-10-09 16:53:02 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=test-application.yaml, group=DEFAULT_GROUP
+2024-10-09 16:53:02 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=test-application-dev.yaml, group=DEFAULT_GROUP
+2024-10-09 16:53:02 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=test-application, group=DEFAULT_GROUP
+2024-10-09 16:59:02 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registering from Nacos Server now...
+2024-10-09 16:59:02 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registration finished.

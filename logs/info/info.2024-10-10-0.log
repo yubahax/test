@@ -1,0 +1,109 @@
+2024-10-10 14:18:30 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-10 14:18:30 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-10 14:18:31 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-10 14:18:31 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-10 14:18:31 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-10 14:18:42 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-test-application-dev.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yaml,DEFAULT_GROUP'}]
+2024-10-10 14:18:42 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "dev"
+2024-10-10 14:18:42 INFO  main org.springframework.context.annotation.AutoProxyRegistrar AutoProxyRegistrar was imported but no annotations were found having both 'mode' and 'proxyTargetClass' attributes of type AdviceMode and boolean respectively. This means that auto proxy creator registration and configuration may not have occurred as intended, and components may not be proxied as expected. Check to ensure that AutoProxyRegistrar has been @Import'ed on the same class where these annotations are declared; otherwise remove the import of AutoProxyRegistrar altogether.
+2024-10-10 14:18:42 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-10 14:18:42 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-10 14:18:42 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 108 ms. Found 0 Redis repository interfaces.
+2024-10-10 14:18:43 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=dd5b7475-6ab8-3a3a-a93f-7334bd200ce9
+2024-10-10 14:18:43 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-10 14:18:43 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:18:43 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-10 14:18:43 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-10 14:18:43 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-10 14:18:43 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1784 ms
+2024-10-10 14:18:45 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2024-10-10 14:18:45 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-10 14:20:04 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-10 14:20:04 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-10 14:20:04 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-10 14:20:04 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-10 14:20:04 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-10 14:20:15 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-test-application-dev.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yaml,DEFAULT_GROUP'}]
+2024-10-10 14:20:15 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "dev"
+2024-10-10 14:20:16 INFO  main org.springframework.context.annotation.AutoProxyRegistrar AutoProxyRegistrar was imported but no annotations were found having both 'mode' and 'proxyTargetClass' attributes of type AdviceMode and boolean respectively. This means that auto proxy creator registration and configuration may not have occurred as intended, and components may not be proxied as expected. Check to ensure that AutoProxyRegistrar has been @Import'ed on the same class where these annotations are declared; otherwise remove the import of AutoProxyRegistrar altogether.
+2024-10-10 14:20:16 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-10 14:20:16 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-10 14:20:16 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 22 ms. Found 0 Redis repository interfaces.
+2024-10-10 14:20:16 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=dd5b7475-6ab8-3a3a-a93f-7334bd200ce9
+2024-10-10 14:20:17 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-10 14:20:17 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:20:17 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-10 14:20:17 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-10 14:20:17 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-10 14:20:17 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1593 ms
+2024-10-10 14:20:19 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:20:19 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-10 14:20:19 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-10 14:20:19 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-10 14:20:26 INFO  main org.apache.coyote.http11.Http11NioProtocol Pausing ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:20:26 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2024-10-10 14:20:26 INFO  main org.apache.coyote.http11.Http11NioProtocol Stopping ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:20:26 INFO  main org.apache.coyote.http11.Http11NioProtocol Destroying ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:20:26 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-10 14:20:56 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-10 14:20:56 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-10 14:20:57 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-10 14:20:57 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-10 14:20:57 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-10 14:21:07 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-test-application-dev.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yaml,DEFAULT_GROUP'}]
+2024-10-10 14:21:07 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "dev"
+2024-10-10 14:21:08 INFO  main org.springframework.context.annotation.AutoProxyRegistrar AutoProxyRegistrar was imported but no annotations were found having both 'mode' and 'proxyTargetClass' attributes of type AdviceMode and boolean respectively. This means that auto proxy creator registration and configuration may not have occurred as intended, and components may not be proxied as expected. Check to ensure that AutoProxyRegistrar has been @Import'ed on the same class where these annotations are declared; otherwise remove the import of AutoProxyRegistrar altogether.
+2024-10-10 14:21:08 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-10 14:21:08 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-10 14:21:08 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 22 ms. Found 0 Redis repository interfaces.
+2024-10-10 14:21:08 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=dd5b7475-6ab8-3a3a-a93f-7334bd200ce9
+2024-10-10 14:21:09 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-10 14:21:09 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:21:09 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-10 14:21:09 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-10 14:21:09 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-10 14:21:09 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1524 ms
+2024-10-10 14:21:11 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:21:11 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-10 14:21:11 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-10 14:21:11 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-10 14:21:18 INFO  main org.apache.coyote.http11.Http11NioProtocol Pausing ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:21:18 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2024-10-10 14:21:18 INFO  main org.apache.coyote.http11.Http11NioProtocol Stopping ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:21:18 INFO  main org.apache.coyote.http11.Http11NioProtocol Destroying ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:21:18 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-10 14:21:57 INFO  main com.alibaba.nacos.client.env.SearchableProperties properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+2024-10-10 14:21:57 INFO  background-preinit org.hibernate.validator.internal.util.Version HV000001: Hibernate Validator 6.2.5.Final
+2024-10-10 14:21:58 INFO  main com.alibaba.cloud.nacos.NacosConfigProperties set nacos config namespace 'public' to ''
+2024-10-10 14:21:58 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-10 14:21:58 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-10 14:22:06 INFO  main org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration Located property source: [BootstrapPropertySource {name='bootstrapProperties-test-application-dev.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-test-application,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-rest.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mybatis.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-spring.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-log.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-port.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-token.yaml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-config-mysql.yaml,DEFAULT_GROUP'}]
+2024-10-10 14:22:07 INFO  main com.example.yubatest.YubaTestApplication The following 1 profile is active: "dev"
+2024-10-10 14:22:07 INFO  main org.springframework.context.annotation.AutoProxyRegistrar AutoProxyRegistrar was imported but no annotations were found having both 'mode' and 'proxyTargetClass' attributes of type AdviceMode and boolean respectively. This means that auto proxy creator registration and configuration may not have occurred as intended, and components may not be proxied as expected. Check to ensure that AutoProxyRegistrar has been @Import'ed on the same class where these annotations are declared; otherwise remove the import of AutoProxyRegistrar altogether.
+2024-10-10 14:22:07 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-10 14:22:07 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-10-10 14:22:07 INFO  main org.springframework.data.repository.config.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 33 ms. Found 0 Redis repository interfaces.
+2024-10-10 14:22:08 INFO  main org.springframework.cloud.context.scope.GenericScope BeanFactory id=dd5b7475-6ab8-3a3a-a93f-7334bd200ce9
+2024-10-10 14:22:08 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2024-10-10 14:22:08 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:22:08 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2024-10-10 14:22:08 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-10-10 14:22:09 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2024-10-10 14:22:09 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1994 ms
+2024-10-10 14:22:11 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2024-10-10 14:22:11 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2024-10-10 14:22:11 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2024-10-10 14:22:11 INFO  main com.alibaba.nacos.plugin.auth.spi.client.ClientAuthPluginManager [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2024-10-10 14:22:11 INFO  main com.alibaba.cloud.nacos.registry.NacosServiceRegistry nacos registry, DEFAULT_GROUP test-application 192.168.3.104:8081 register finished
+2024-10-10 14:22:11 INFO  main com.example.yubatest.YubaTestApplication Started YubaTestApplication in 15.279 seconds (JVM running for 17.485)
+2024-10-10 14:22:11 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=test-application.yaml, group=DEFAULT_GROUP
+2024-10-10 14:22:11 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=test-application-dev.yaml, group=DEFAULT_GROUP
+2024-10-10 14:22:11 INFO  main com.alibaba.cloud.nacos.refresh.NacosContextRefresher [Nacos Config] Listening config: dataId=test-application, group=DEFAULT_GROUP
+2024-10-10 14:29:21 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registering from Nacos Server now...
+2024-10-10 14:29:21 INFO  SpringApplicationShutdownHook com.alibaba.cloud.nacos.registry.NacosServiceRegistry De-registration finished.
