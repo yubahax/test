@@ -1,13 +1,11 @@
 package com.example.yubatest.service.impl;
 
-import cn.hutool.core.bean.BeanUtil;
-import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
-import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.example.yubatest.entity.co.UserCo;
 import com.example.yubatest.entity.dto.UserDo;
 import com.example.yubatest.mapper.UserMapper;
 import com.example.yubatest.service.UserService;
 import org.springframework.stereotype.Service;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.PageRequest;
 
 import javax.annotation.Resource;
@@ -16,9 +14,9 @@ import javax.annotation.Resource;
  * user(User)表服务实现类
  *
  * @author makejava
- * @since 2024-10-11 09:54:46
+ * @since 2024-10-14 11:30:41
  */
-@Service
+@Service("userService")
 public class UserServiceImpl implements UserService {
     @Resource
     private UserMapper userMapper;
@@ -31,7 +29,7 @@ public class UserServiceImpl implements UserService {
      */
     @Override
     public UserDo queryById(Long id) {
-        return this.userMapper.selectById(id);
+        return this.userMapper.queryById(id);
     }
 
     /**
@@ -42,9 +40,9 @@ public class UserServiceImpl implements UserService {
      * @return 查询结果
      */
     @Override
-    public Page queryByPage(UserCo user, PageRequest pageRequest) {
-        com.baomidou.mybatisplus.extension.plugins.pagination.Page page = new com.baomidou.mybatisplus.extension.plugins.pagination.Page((long)pageRequest.getPageNumber(), (long)pageRequest.getPageSize());
-        return  this.userMapper.selectPage(page, new QueryWrapper<UserDo>());
+    public Page<UserDo> queryByPage(UserCo user, PageRequest pageRequest) {
+        long total = this.userMapper.count(user);
+        return new PageImpl<>(this.userDao.queryAllByLimit(user, pageRequest), pageRequest, total);
     }
 
     /**
@@ -55,8 +53,8 @@ public class UserServiceImpl implements UserService {
      */
     @Override
     public UserDo insert(UserCo user) {
-        this.userMapper.insert(new UserDo());
-        return new UserDo();
+        this.userMapper.insert(user);
+        return user;
     }
 
     /**
@@ -67,8 +65,7 @@ public class UserServiceImpl implements UserService {
      */
     @Override
     public UserDo update(UserCo user) {
-        UserDo userDo = BeanUtil.copyProperties(user, UserDo.class);
-        this.userMapper.update(userDo,new QueryWrapper<>());
+        this.userMapper.update(user);
         return this.queryById(user.getId());
     }
 

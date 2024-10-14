@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * user(User)表数据库访问层
  *
  * @author makejava
- * @since 2024-10-11 09:54:46
+ * @since 2024-10-14 11:30:41
  */
 @Mapper
 public interface UserMapper extends BaseMapper<UserDo> {

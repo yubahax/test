@@ -1,15 +1,14 @@
 package com.example.yubatest.service;
 
-import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.example.yubatest.entity.co.UserCo;
 import com.example.yubatest.entity.dto.UserDo;
+import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 
 /**
  * user(User)表服务接口
  *
  * @author makejava
- * @since 2024-10-11 09:54:46
+ * @since 2024-10-14 11:30:41
  */
 public interface UserService {
 
@@ -28,7 +27,7 @@ public interface UserService {
      * @param pageRequest 分页对象
      * @return 查询结果
      */
-    Page queryByPage(UserCo user, PageRequest pageRequest);
+    Page<UserDo> queryByPage(UserCo user, PageRequest pageRequest);
 
     /**
      * 新增数据
