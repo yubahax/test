@@ -121,16 +121,16 @@ public class UserController {
 //        return Result.buildSuccess(this.userService.update(user));
 //    }
 //
-    /**
-     * 删除数据
-     *
-     * @param id 主键
-     * @return 删除是否成功
-     */
-    @DeleteMapping
-    public Result<Boolean> deleteById(Long id) {
-        return Result.buildSuccess(this.userService.deleteById(id));
-    }
+//    /**
+//     * 删除数据
+//     *
+//     * @param id 主键
+//     * @return 删除是否成功
+//     */
+//    @DeleteMapping
+//    public Result<Boolean> deleteById(Long id) {
+//        return Result.buildSuccess(this.userService.deleteById(id));
+//    }
 
 }
 
