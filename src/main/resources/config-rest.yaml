@@ -1,0 +1,9 @@
+rest-api:
+  json:
+    number-form: ".00" # 浮点数格式化  ,000,00 不足补零。,###.## 不会补零 （四舍五入）
+    date-form: yyyy-MM-dd HH:mm:ss.SSS #时间格式化  timestamp 时间戳
+    null-able: # 对空返回处理
+      has-null-able: false # 默认不处理   original 类型代表单个不做任何处理
+      number-type: number # 处理number 空返回 "0"
+      array-type: array # 处理集合空返回 []
+      double-type: double # 处理double 类型空返回 "0.00"

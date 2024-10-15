@@ -1,0 +1,9 @@
+logging:
+  level:
+    com.example.workdemo.dao.mapper: debug   #这里一直到mapper所在的目录
+    com.example.workdemo.service.Impl: debug   #这里一直到mapper所在的目录
+  max-history: 90 # 保存多少天
+  max-file-size: 3MB  # 每个文件大小
+  max-total-size-cap: 1GB  #总文件大小超过多少压缩
+  level-root: INFO    # 这里的INFO可以替换为其他日志等级，如DEBUG, WARN, ERROR, TRACE, FATAL, OFF等。 日志等级由低到高分别是debugger-info-warn-error
+  logDataSourceClass: cn.soboys.restapispringbootstarter.log.LogFileDefaultDataSource # 日志数据源
