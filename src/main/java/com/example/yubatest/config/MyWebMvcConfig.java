@@ -56,9 +56,7 @@ public class MyWebMvcConfig implements WebMvcConfigurer {
                 })
 
                 // 异常处理函数：每次认证函数发生异常时执行此函数
-                .setError(e -> {
-                    return SaResult.error(e.getMessage());
-                })
+                .setError(e -> SaResult.error(e.getMessage()))
 
                 // 前置函数：在每次认证函数之前执行
                 .setBeforeAuth(obj -> {

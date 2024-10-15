@@ -1,8 +1,5 @@
-package com.example.yubatest.entity.dto;
+package com.example.yubatest.entity.domainobject;
 
-
-import java.util.Date;
-import java.io.Serializable;
 
 import com.example.yubatest.entity.common.BaseDo;
 import lombok.Data;

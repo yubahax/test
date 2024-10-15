@@ -1,18 +1,14 @@
 package com.example.yubatest.controller;
 
-import cn.soboys.restapispringbootstarter.ResultPage;
 import com.baomidou.mybatisplus.core.conditions.update.UpdateWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
-import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.example.yubatest.entity.common.PageQuery;
-import com.example.yubatest.entity.dto.UserDo;
+import com.example.yubatest.entity.domainobject.UserDo;
 import com.example.yubatest.entity.page.UserPageQry;
 import com.example.yubatest.mapper.UserMapper;
 import com.example.yubatest.service.UserService;
 import cn.soboys.restapispringbootstarter.Result;
 import com.example.yubatest.util.PageHelper;
 import io.swagger.annotations.Api;
-import io.swagger.annotations.ApiModelProperty;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.*;
 

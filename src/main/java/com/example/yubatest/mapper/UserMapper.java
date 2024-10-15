@@ -1,6 +1,6 @@
 package com.example.yubatest.mapper;
 
-import com.example.yubatest.entity.dto.UserDo;
+import com.example.yubatest.entity.domainobject.UserDo;
 import org.apache.ibatis.annotations.Mapper;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 

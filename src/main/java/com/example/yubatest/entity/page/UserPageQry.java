@@ -19,9 +19,6 @@ import com.baomidou.mybatisplus.annotation.TableName;
 public class UserPageQry extends PageQuery {
     private static final long serialVersionUID = -79284909110828179L;
 
-    private int pageSize = 10;
-    private int pageIndex = 1;
-
     /**
      * 主键
      */
