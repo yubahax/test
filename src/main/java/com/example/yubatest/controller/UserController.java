@@ -57,10 +57,7 @@ public class UserController {
         wrapper.set("age","30");
         wrapper.eq("name","yuba");
         UserDo userDo = new UserDo();
-        userDo.setAge(30);
-        userDo.setName("yuba");
-        userDo.setId(1843480572768731138L);
-        userMapper.update(userDo,null);
+        userMapper.update(userDo,wrapper);
 
         return Result.buildSuccess();
     }

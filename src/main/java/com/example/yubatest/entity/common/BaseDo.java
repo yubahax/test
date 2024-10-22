@@ -39,7 +39,8 @@ public abstract class BaseDo implements Serializable {
             value = "update_time",
             fill = FieldFill.INSERT_UPDATE
     )
-    protected LocalDateTime updateTime = LocalDateTime.now();
+    protected LocalDateTime updateTime;
+
     @TableField(
             value = "create_id",
             fill = FieldFill.INSERT
