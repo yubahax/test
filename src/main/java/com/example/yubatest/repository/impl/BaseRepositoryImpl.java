@@ -10,13 +10,4 @@ import java.util.Collection;
 
 public class BaseRepositoryImpl<M extends BaseMapper<T>, T extends BaseDo> extends ServiceImpl<M, T> implements BaseRepository<T> {
 
-    @Override
-    public boolean removeEnById(Serializable id) {
-        return this.removeById(id);
-    }
-
-    @Override
-    public boolean removeBatchEnByIds(Collection<? extends Serializable> ids) {
-        return super.removeBatchByIds(ids);
-    }
 }

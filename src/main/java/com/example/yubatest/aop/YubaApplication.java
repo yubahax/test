@@ -45,4 +45,10 @@ public @interface YubaApplication {
     )
     String[] scanBasePackages() default {"com.example"};
 
+    @AliasFor(
+            annotation = MapperScan.class,
+            attribute = "basePackages"
+    )
+    String[] mapperPackages() default {"com.example.*.mapper"};
+
 }

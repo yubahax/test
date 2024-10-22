@@ -5,6 +5,7 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.example.yubatest.entity.domainobject.UserDo;
 import com.example.yubatest.entity.page.UserPageQry;
 import com.example.yubatest.mapper.UserMapper;
+import com.example.yubatest.repository.UserRepository;
 import com.example.yubatest.service.UserService;
 import cn.soboys.restapispringbootstarter.Result;
 import com.example.yubatest.util.PageHelper;
@@ -31,6 +32,9 @@ public class UserController {
     private UserService userService;
 
     @Resource
+    private UserRepository userRepository;
+
+    @Resource
     UserMapper userMapper;
 
     @GetMapping("/selectPage")
@@ -54,8 +58,8 @@ public class UserController {
 //        userMapper.update(null,wrapper);
         UserDo selectUser = new UserDo();
         selectUser.setId(1843480572768731138L);
-        selectUser.setAge(234);
-        userMapper.updateById(selectUser);
+        selectUser.setAge(11);
+        userRepository.updateById(selectUser);
 //        UpdateWrapper<UserDo> wrapper = new UpdateWrapper<>();
 //        wrapper.set("age","30");
 //        wrapper.eq("name","yuba");
