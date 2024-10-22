@@ -67,7 +67,7 @@ public class Interceptor implements org.apache.ibatis.plugin.Interceptor {
         //离谱的是之前的反射无法生效，不知道为什么这个可以生效有待研究
         String mSql = sql.replace("demo", "kzz");
         if (mSql.contains("UPDATE") || mSql.contains("update")) {
-            mSql = mSql.replace("SET","SET update_time = '"+ LocalDateTime.now()+"' , version = version + 1,");
+            mSql = mSql.replace("SET","SET update_time = '"+ LocalDateTime.now()+"',version = version + 1,");
         }
         // 直接增强sql
         //通过反射修改sql语句
