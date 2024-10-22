@@ -51,11 +51,13 @@ public abstract class BaseDo implements Serializable {
             fill = FieldFill.INSERT_UPDATE
     )
     protected Long updateId;
+
     @TableField(
             value = "env",
             fill = FieldFill.INSERT
     )
     protected String env = "PROD";
+
     @TableField(
             value = "delete_enum",
             fill = FieldFill.INSERT

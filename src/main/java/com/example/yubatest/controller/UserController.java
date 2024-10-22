@@ -52,12 +52,15 @@ public class UserController {
 //        wrapper.set("age","30");
 //        wrapper.eq("name","yuba");
 //        userMapper.update(null,wrapper);
-
-        UpdateWrapper<UserDo> wrapper = new UpdateWrapper<>();
-        wrapper.set("age","30");
-        wrapper.eq("name","yuba");
-        UserDo userDo = new UserDo();
-        userMapper.update(null,wrapper);
+        UserDo selectUser = new UserDo();
+        selectUser.setId(1843480572768731138L);
+        selectUser.setAge(234);
+        userMapper.updateById(selectUser);
+//        UpdateWrapper<UserDo> wrapper = new UpdateWrapper<>();
+//        wrapper.set("age","30");
+//        wrapper.eq("name","yuba");
+//        UserDo userDo = new UserDo();
+//        userMapper.update(null,wrapper);
 
         return Result.buildSuccess();
     }
