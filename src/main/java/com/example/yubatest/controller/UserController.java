@@ -57,7 +57,7 @@ public class UserController {
         wrapper.set("age","30");
         wrapper.eq("name","yuba");
         UserDo userDo = new UserDo();
-        userMapper.update(userDo,wrapper);
+        userMapper.update(null,wrapper);
 
         return Result.buildSuccess();
     }

@@ -14,6 +14,7 @@ import org.springframework.stereotype.Component;
 
 import java.lang.reflect.Field;
 import java.sql.Connection;
+import java.time.LocalDateTime;
 import java.util.Properties;
 
 /**
@@ -65,6 +66,9 @@ public class Interceptor implements org.apache.ibatis.plugin.Interceptor {
         // 通过反射，拦截方法上带有自定义@SqlPermission，并增强sql
         //离谱的是之前的反射无法生效，不知道为什么这个可以生效有待研究
         String mSql = sql.replace("demo", "kzz");
+        if (mSql.contains("UPDATE") || mSql.contains("update")) {
+            mSql = mSql.replace("SET","SET update_time = '"+ LocalDateTime.now()+"' , version = version + 1,");
+        }
         // 直接增强sql
         //通过反射修改sql语句
         Field field = boundSql.getClass().getDeclaredField("sql");
