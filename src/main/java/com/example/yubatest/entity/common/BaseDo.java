@@ -56,7 +56,7 @@ public abstract class BaseDo implements Serializable {
             value = "env",
             fill = FieldFill.INSERT
     )
-    protected String env = "PROD";
+    protected String env;
 
     @TableField(
             value = "delete_enum",
@@ -66,7 +66,7 @@ public abstract class BaseDo implements Serializable {
             value = "FALSE",
             delval = "TRUE"
     )
-    protected String deleteEnum = "FALSE";
+    protected String deleteEnum;
     @TableField(
             value = "remarks",
             fill = FieldFill.INSERT

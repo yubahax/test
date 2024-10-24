@@ -24,6 +24,7 @@ public class CustomMetaObjectHandler implements MetaObjectHandler {
         this.strictInsertFill(metaObject, "deleteEnum", String.class, "FALSE");
         this.strictInsertFill(metaObject, "version", Integer.class, 1);
         this.strictInsertFill(metaObject,"createId", Long.class, Long.parseLong(StpUtil.getLoginId().toString()));
+        this.strictInsertFill(metaObject,"env",String.class,"dev");
     }
 
     @Override
